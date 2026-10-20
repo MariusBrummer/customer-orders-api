@@ -1,9 +1,0 @@
-pyproject.toml
-src/customer_orders/__init__.py
-src/customer_orders/product.py
-src/customer_orders_api.egg-info/PKG-INFO
-src/customer_orders_api.egg-info/SOURCES.txt
-src/customer_orders_api.egg-info/dependency_links.txt
-src/customer_orders_api.egg-info/requires.txt
-src/customer_orders_api.egg-info/top_level.txt
-tests/test_product.py
